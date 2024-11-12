@@ -1,0 +1,6 @@
+----------------For the main page----------------
+main page needs summary of it's purpose
+also needs buttons for report pages
+
+--------------For the article pages--------------
+make comprehensive mission reports with deltaV, orbital and ECLCS stats. (and screenies)
