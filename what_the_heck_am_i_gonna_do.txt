@@ -3,4 +3,8 @@ main page needs summary of it's purpose
 also needs buttons for report pages
 
 --------------For the article pages--------------
-make comprehensive mission reports with deltaV, orbital and ECLCS stats. (and screenies)
+make comprehensive mission reports with deltaV, orbital and ECLCS stats. (and screenies ofc)
+provide videos for the report
+
+-------------For the backstage stuff-------------
+make a video of the dev. and the missions
