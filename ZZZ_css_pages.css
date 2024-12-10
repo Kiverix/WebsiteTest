@@ -17,7 +17,7 @@
 }
 
 #apollo {
-    background-image: url("images/Apollo29.jpg");
+    background-image: url("images/Apollo26.jpg");
     background-size: cover;
     background-repeat: no-repeat;
     background-position: center;
@@ -57,7 +57,7 @@ nav a{
 }
 
 nav a:hover{
-    color: orange;
+    color: hotpink;
     border-bottom: 2px solid transparent;
 }
 
