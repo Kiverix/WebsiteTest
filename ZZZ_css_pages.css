@@ -24,6 +24,14 @@
     background-attachment: fixed;
 }
 
+#lsls{
+    background-image: url("images/bkrnd.png");
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+    background-attachment: fixed;
+}
+
 nav{
     width: 100%;
     margin: 0 auto;
