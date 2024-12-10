@@ -7,3 +7,5 @@ make comprehensive mission reports with deltaV, orbital and ECLCS stats. (and sc
 
 -------------For the backstage stuff-------------
 make a video of the dev. and the missions
+
+pain
