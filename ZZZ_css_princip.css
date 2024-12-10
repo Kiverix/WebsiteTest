@@ -9,6 +9,10 @@
     font-family: Avenir, sans-serif;
 }
 
+#home {
+    background-image: url("Apollo1.jpg");
+}
+
 body{
     min-height: 100vh;
     display:flex;
