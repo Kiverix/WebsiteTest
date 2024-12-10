@@ -1,11 +1,15 @@
 * {
-    color: black;
+    color: White;
     text-align: center;
     margin:0px;
     padding: 0px;
     font-family:'Courier New', Courier, monospace
     
 
+}
+
+#textblk{
+    color: black;
 }
 
 #title{
@@ -16,6 +20,8 @@
     background-image: url("images/Apollo29.jpg");
     background-size: cover;
     background-repeat: no-repeat;
+    background-position: center;
+    background-attachment: fixed;
 }
 
 nav{
