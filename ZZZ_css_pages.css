@@ -4,8 +4,6 @@
     margin:0px;
     padding: 0px;
     font-family:'Courier New', Courier, monospace
-    
-
 }
 
 #textblk{
@@ -15,7 +13,7 @@
 #title{
     color: white;
 }
-
+/*--------------------Configurations pour les pages Apollo, STS, LSLS et Skylab--------------------*/
 #apollo {
     background-image: url("images/Apollo26.jpg");
     background-size: cover;
@@ -25,7 +23,7 @@
 }
 
 #sts {
-    background-image: url("");
+    background-image: url("images/STS1.png");
     background-size: cover;
     background-repeat: no-repeat;
     background-position: center;
@@ -47,7 +45,7 @@
     background-position: center;
     background-attachment: fixed;
 }
-
+/*-------------------------------------------------------------------------------------------------*/
 nav{
     width: 100%;
     margin: 0 auto;
@@ -81,7 +79,7 @@ nav a{
 }
 
 nav a:hover{
-    color: hotpink;
+    color: gold;
     border-bottom: 2px solid transparent;
 }
 
@@ -117,7 +115,7 @@ footer a{
 }
 
 footer a:hover{
-    color: orange;
+    color: gold;
     border-bottom: 2px solid transparent;
 }
 
