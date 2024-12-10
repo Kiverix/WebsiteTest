@@ -1,0 +1,13 @@
+* {
+    color: black;
+    text-align: center;
+    margin:0px;
+    padding: 0px;
+    font-family: Avenir, sans-serif;
+
+}
+
+#apollo {
+    background-image: url("images/Apollo27.jpg");
+}
+
