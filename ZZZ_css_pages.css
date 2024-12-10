@@ -24,6 +24,14 @@
     background-attachment: fixed;
 }
 
+#sts {
+    background-image: url("");
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+    background-attachment: fixed;
+}
+
 #lsls{
     background-image: url("images/bkrnd.png");
     background-size: cover;
